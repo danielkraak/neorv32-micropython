@@ -1,3 +1,6 @@
 [submodule "common/neorv32"]
 	path = common/neorv32
 	url = https://github.com/danielkraak/neorv32.git
+[submodule "common/micropython"]
+	path = common/micropython
+	url = https://github.com/danielkraak/micropython.git
