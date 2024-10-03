@@ -1,0 +1,3 @@
+[submodule "common/neorv32"]
+	path = common/neorv32
+	url = https://github.com/danielkraak/neorv32.git
